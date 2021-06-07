@@ -1,5 +1,4 @@
 # InformeTarea1
-asdasdas
-asdasda
+v=W/Q 
 
 
