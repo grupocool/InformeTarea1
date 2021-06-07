@@ -1,4 +1,2 @@
 # InformeTarea1
-v=W/Q 
-
-
+7*〖10〗^(-10)  N
