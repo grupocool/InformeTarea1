@@ -1,6 +1,10 @@
 # InformeTarea1
 # 1.1. Objetivo General
+Comprender e investigar los fundamentos para el analisis de circuitos.
 ## 1.1.2. Objetivos Especificos
+*Analizar detenidamente las conversiones de unidades para la solucion de problemas tecnicos
+*
+*
 # 1.2. Marco Teorico
 ![cap1_1](https://user-images.githubusercontent.com/85137954/121130454-0aad2880-c7f4-11eb-9341-fd82cd9ec72a.png)
 ![Cap1_2](https://user-images.githubusercontent.com/85137954/121130611-447e2f00-c7f4-11eb-9289-c4f00b6756bd.png)
@@ -53,9 +57,15 @@
 
 11. Se define la ecuación s=vt, donde s es la distancia recorrida, v es la velocidad y t es el tiempo. Si usted viaja a v 60 mph por 500 segundos, obtiene y sustituye sin pensar s= (60)(500)=30 000 millas. ¿Cuál es el error en este cálculo? ¿Cuál es la respuesta correcta?
 
+![11](https://user-images.githubusercontent.com/85137954/121172550-7061da80-c81d-11eb-98bd-6aa900d8a355.png)
+
 12. Una pizza redonda tiene una circunferencia de 47 pulgadas. ¿Cuánto tiempo tardará en cortarla diagonalmente con un cortador de pizza que viaja a 0,12 m/s?
 
+![12](https://user-images.githubusercontent.com/85137954/121172553-71930780-c81d-11eb-8594-e94ce7a27b01.png)
+
 13. A Joe S. se le pidió convertir 2000 yd/h en metros por segundo. Aquí está el trabajo de Joe: velocidad 2000x0.9144 x60/60 1828.8 m/s. Determine los factores de conversión, escriba las unidades en la conversión y determine la respuesta correcta
+
+![13](https://user-images.githubusercontent.com/85137954/121172558-73f56180-c81d-11eb-8ab0-a20c8e255058.png)
 
 14. La distancia media de la Tierra a la Luna es 238 857 millas, Las señales de radio viajan a 299 792 458 m/s. ¿Cuánto tiempo tardan las señales de radio en llegar a la Luna?
 
@@ -100,8 +110,6 @@
 
 ![WhatsApp Image 2021-06-08 at 01 17 46](https://user-images.githubusercontent.com/85137954/121174568-aa33e080-c81f-11eb-9fb5-bd84ddaaa5b5.jpeg)
 
-## Capítulo 2
-
 ![WhatsApp Image 2021-06-08 at 01 17 46 (1)](https://user-images.githubusercontent.com/85137954/121174920-17477600-c820-11eb-8ec0-9256fea5f3bb.jpeg)
 
 ![WhatsApp Image 2021-06-08 at 01 17 47](https://user-images.githubusercontent.com/85137954/121175226-71e0d200-c820-11eb-997b-6c0644e0cb15.jpeg)
@@ -109,14 +117,6 @@
 ![WhatsApp Image 2021-06-08 at 01 17 47 (1)](https://user-images.githubusercontent.com/85137954/121175324-89b85600-c820-11eb-88e0-cb12cc1842d2.jpeg)
 
 ![WhatsApp Image 2021-06-08 at 01 17 48](https://user-images.githubusercontent.com/85137954/121175363-95a41800-c820-11eb-955e-9570facd7bc4.jpeg)
-
-![WhatsApp Image 2021-06-08 at 01 17 49](https://user-images.githubusercontent.com/85137954/121175527-c2f0c600-c820-11eb-9938-2cdb5912d370.jpeg)
-
-![WhatsApp Image 2021-06-08 at 01 17 49 (1)](https://user-images.githubusercontent.com/85137954/121175583-d439d280-c820-11eb-9675-7209301fa7bf.jpeg)
-
-![WhatsApp Image 2021-06-08 at 01 17 50](https://user-images.githubusercontent.com/85137954/121175600-dac84a00-c820-11eb-8bab-84a8724fa046.jpeg)
-
-![WhatsApp Image 2021-06-08 at 01 17 50 (1)](https://user-images.githubusercontent.com/85137954/121175772-13682380-c821-11eb-91fb-d7604ffef796.jpeg)
 
 
 
