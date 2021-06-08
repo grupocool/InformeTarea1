@@ -7,6 +7,8 @@
 ![cap1_3](https://user-images.githubusercontent.com/85137954/121130616-45af5c00-c7f4-11eb-8d20-69779414ebda.png)
 # 1.3. Desarollo (aqui deben pegar sus ejercicios)
 ## Capítulo 1
+1)Realice las siguientes conversiones:
+
 55) Ejercicio con cd
 
 56) Considere el diagrama pictográfico de la figura 1-14. Use los símbolos apropiados de la tabla 1-7 para dibujar un diagrama esquemático. Sugerencia: en los siguientes capítulos hay muchos circuitos esquemáticos que contienen resistores, inductores y capacitores. Utilícelos como ayuda.
