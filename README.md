@@ -118,6 +118,9 @@ Comprender e investigar los fundamentos para el analisis de circuitos.
 
 ![WhatsApp Image 2021-06-08 at 01 17 48](https://user-images.githubusercontent.com/85137954/121175363-95a41800-c820-11eb-955e-9570facd7bc4.jpeg)
 
+![WhatsApp Image 2021-06-08 at 01 17 51 (1)](https://user-images.githubusercontent.com/85137954/121176954-71e1d180-c822-11eb-938f-b93412a2b5cc.jpeg)
+
+
 
 
 
