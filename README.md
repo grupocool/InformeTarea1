@@ -8,6 +8,7 @@
 # 1.3. Desarollo (aqui deben pegar sus ejercicios)
 ## Capítulo 1
 1)Realice las siguientes conversiones:
+
 ![1](https://user-images.githubusercontent.com/85137954/121131194-0af9f380-c7f5-11eb-8e1b-1648d4a03172.png)
 
 55) Ejercicio con cd
