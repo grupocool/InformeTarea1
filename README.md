@@ -2,9 +2,9 @@
 # 1.1. Objetivo General
 Comprender e investigar los fundamentos para el analisis de circuitos.
 ## 1.1.2. Objetivos Especificos
-* Analizar detenidamente las conversiones de unidades para la solucion de problemas tecnicos
-* Comprender los conceptos basicos de los diagramas de circuitos
-* Demostrar las leyes de voltaje y corriente
+* Analizar detenidamente las conversiones de unidades para la solucion de problemas tecnicos, para así estar completamente seguros de que la teoria ha quedado clara
+* Comprender los conceptos basicos de los diagramas de circuitos, con el fin de comprender a fondo sus implicaciones al momento de realizar los calculos respectivos.
+* Demostrar las leyes de voltaje y corriente, para asegurar que no existen vacios en el aprendizaje de estas unidades 
 # 1.2. Marco Teorico
 
 ![cap1_1](https://user-images.githubusercontent.com/85137954/121130454-0aad2880-c7f4-11eb-9341-fd82cd9ec72a.png)
