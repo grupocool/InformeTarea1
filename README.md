@@ -188,6 +188,9 @@ https://youtu.be/v0gcIcxErFA
 
 # 1.5. Concluciones
 
+- Podemos decir que la ley de Ohm es una ley básica de los circuitos eléctricos donde nos enseña a establecer la diferencia de potencial que aplicamos, la intensidad de corriente, entre otras dándonos a conocer fórmulas que nos son de gran ayuda para calcular valores no encontrados.
+- Conocer el sistema SI de medidas internacionales permite hacer conversiones entre varios tipode de unidades. Hacer uso de la notación de potencia de 10 expresa cantidades de manera sinmplificada; convinar el empleo de potencia de 10 y notación de ingeniería ayuda a representar unidades eléctricas como microamperes, kilovolios, miliwatts, entre otra.
+
 # 1.6 Bibliografia
 
 Anonimo. (s.f.). unsa. 
