@@ -2,6 +2,7 @@
 # 1.1. Objetivo General
 ## 1.1.2. Objetivos Especificos
 # 1.2. Marco Teorico
+![cap1_1](https://user-images.githubusercontent.com/85137954/121130454-0aad2880-c7f4-11eb-9341-fd82cd9ec72a.png)
 # 1.3. Desarollo (aqui deben pegar sus ejercicios)
 ## Capítulo 1
 55) Ejercicio con cd
