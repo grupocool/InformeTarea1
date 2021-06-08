@@ -286,4 +286,7 @@ W=V*Q→W=0.5 uC*8.5kV=4.25 mJ
 
 
 # 1.4. Video
+
+https://youtu.be/v0gcIcxErFA
+
 # 1.5. Concluciones
