@@ -190,7 +190,12 @@ https://youtu.be/v0gcIcxErFA
 
 # 1.6 Bibliografia
 
-Anonimo. (s.f.). unsa. Obtenido de http://www.unsa.edu.ar/srmrf/web/_Visitante/articulacion/MePreparo2011/3_NotacionCientifica.pdf
-Prucommercialre. (7 de Diciembre de 2020). Prucommercialre.com. Obtenido de https://www.prucommercialre.com/que-es-un-diagrama-de-circuito/
-Rivera, J. (18 de Junio de 2019). Pasionelectronica. Obtenido de https://pasionelectronica.com/voltaje-corriente-y-resistencia/
+Anonimo. (s.f.). unsa. 
+Obtenido de http://www.unsa.edu.ar/srmrf/web/_Visitante/articulacion/MePreparo2011/3_NotacionCientifica.pdf
+
+Prucommercialre. (7 de Diciembre de 2020). Prucommercialre.com. 
+Obtenido de https://www.prucommercialre.com/que-es-un-diagrama-de-circuito/
+
+Rivera, J. (18 de Junio de 2019). Pasionelectronica. 
+Obtenido de https://pasionelectronica.com/voltaje-corriente-y-resistencia/
 
