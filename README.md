@@ -10,6 +10,8 @@
 
 ![image](https://user-images.githubusercontent.com/85137954/121124727-00d2f780-c7eb-11eb-84b8-6f5abfee32fb.png)
 
+![WhatsApp Image 2021-06-08 at 00 04 17](https://user-images.githubusercontent.com/85137954/121126027-1d702f00-c7ed-11eb-8347-61d394476cd8.jpeg)
+
 57) Elabore el diagrama esquemático para una simple linterna.
 
 ![image](https://user-images.githubusercontent.com/85137954/121124750-0af4f600-c7eb-11eb-9b09-1e4c9dae6daa.png)
