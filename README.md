@@ -184,6 +184,13 @@ W=V*Q→W=0.5 uC*8.5kV=4.25 mJ
 
 ![image](https://user-images.githubusercontent.com/85137954/121127295-2bbf4a80-c7ef-11eb-9b6c-ac610d75952c.png)
 
+![image](https://user-images.githubusercontent.com/85137954/121128764-848fe280-c7f1-11eb-8d73-9a948075fd35.png)
+
+![image](https://user-images.githubusercontent.com/85137954/121128861-aee1a000-c7f1-11eb-9cf0-0f6664a65dc8.png)
+
+![image](https://user-images.githubusercontent.com/85137954/121128969-db95b780-c7f1-11eb-95f1-21dbb890ffd6.png)
+
+![image](https://user-images.githubusercontent.com/85137954/121129466-9cb43180-c7f2-11eb-8a48-a3c094d8faa2.png)
 
 
 
