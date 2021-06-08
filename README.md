@@ -14,7 +14,7 @@
 ![1](https://user-images.githubusercontent.com/85137954/121131194-0af9f380-c7f5-11eb-8e1b-1648d4a03172.png)
 
 2. Realice las siguientes conversiones:
-3. 
+
 ![2](https://user-images.githubusercontent.com/85137954/121172484-5fb16480-c81d-11eb-88cd-4ee6b8de9ced.png)
 
 3. Establezca los factores de conversión, calcule lo siguiente y exprese la respuesta en las unidades que se indican.
@@ -23,17 +23,31 @@
 
 4. Un ventilador eléctrico gira a 300 revoluciones por minuto. ¿A cuánto equivale en grados por segundo?
 
+![4](https://user-images.githubusercontent.com/85137954/121172493-62ac5500-c81d-11eb-92ba-b64b372e2b83.png)
+
 5. Si la máquina robot de montaje superficial de la figura 1-3 coloca 15 partes cada 12 s, ¿cuál es su tasa de colocación por hora?
+ 
+![5](https://user-images.githubusercontent.com/85137954/121172496-63dd8200-c81d-11eb-83fe-93c238fc58dd.png)
  
 6. Si su impresora láser puede imprimir 8 páginas por minuto, ¿cuántas páginas puede imprimir en una décima de hora?
 
+![6](https://user-images.githubusercontent.com/85137954/121172500-650eaf00-c81d-11eb-8300-f7a03c1be463.png)
+
 7. Un auto tiene un rendimiento de 27 millas por galón (E. U.). ¿Cuál es el rendimiento en kilómetros por litro?
+
+![7](https://user-images.githubusercontent.com/85137954/121172503-65a74580-c81d-11eb-8b68-7847c99b933d.png)
 
 8. El radio ecuatorial de la Tierra es de 3963 millas. ¿Cuál es la circunferencia de la Tierra en kilómetros en el ecuador?
 
+![8](https://user-images.githubusercontent.com/85137954/121172508-66d87280-c81d-11eb-94f0-0fce79f87f4b.png)
+
 9. Una rueda gira 18° en 0.02 s. ¿A cuántas revoluciones por minuto equivale esta cantidad?
 
+![9](https://user-images.githubusercontent.com/85137954/121172528-6b049000-c81d-11eb-86a8-eae80e879601.png)
+
 10. La altura de los caballos se mide en ocasiones en “palmos” donde 1 palmo=4 pulgadas. ¿Cuántos metros de altura mide un caballo de 16 palmos?, ¿y en centímetros?
+
+![10](https://user-images.githubusercontent.com/85137954/121172534-6c35bd00-c81d-11eb-9110-5019fa2059bb.png)
 
 11. Se define la ecuación s=vt, donde s es la distancia recorrida, v es la velocidad y t es el tiempo. Si usted viaja a v 60 mph por 500 segundos, obtiene y sustituye sin pensar s= (60)(500)=30 000 millas. ¿Cuál es el error en este cálculo? ¿Cuál es la respuesta correcta?
 
