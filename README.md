@@ -19,6 +19,8 @@
 
 3. Establezca los factores de conversión, calcule lo siguiente y exprese la respuesta en las unidades que se indican.
 
+![3](https://user-images.githubusercontent.com/85137954/121172492-6213be80-c81d-11eb-86b4-342876c63796.png)
+
 4. Un ventilador eléctrico gira a 300 revoluciones por minuto. ¿A cuánto equivale en grados por segundo?
 
 5. Si la máquina robot de montaje superficial de la figura 1-3 coloca 15 partes cada 12 s, ¿cuál es su tasa de colocación por hora?
