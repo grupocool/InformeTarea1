@@ -7,63 +7,24 @@
 ![cap1_3](https://user-images.githubusercontent.com/85137954/121130616-45af5c00-c7f4-11eb-8d20-69779414ebda.png)
 # 1.3. Desarollo (aqui deben pegar sus ejercicios)
 ## Capítulo 1
-1. Realice las siguientes conversiones:
+![image](https://user-images.githubusercontent.com/85137954/121132617-f9195000-c7f6-11eb-8305-f002d62f37ec.png)
+![image](https://user-images.githubusercontent.com/85137954/121132674-0a625c80-c7f7-11eb-9b5b-521f5082f666.png)
+![image](https://user-images.githubusercontent.com/85137954/121132772-2b2ab200-c7f7-11eb-95d9-132151a39a57.png)
+![image](https://user-images.githubusercontent.com/85137954/121132858-4695bd00-c7f7-11eb-897d-25e82b845feb.png)
+![image](https://user-images.githubusercontent.com/85137954/121132901-54e3d900-c7f7-11eb-81d2-b03ba997456c.png)
+![image](https://user-images.githubusercontent.com/85137954/121132926-5ca37d80-c7f7-11eb-84ab-77c488ffaa88.png)
+![image](https://user-images.githubusercontent.com/85137954/121132992-6f1db700-c7f7-11eb-9077-f33e3aeb2ed9.png)
+![image](https://user-images.githubusercontent.com/85137954/121133032-793fb580-c7f7-11eb-876a-99b4477674d1.png)
+![image](https://user-images.githubusercontent.com/85137954/121133081-86f53b00-c7f7-11eb-805b-ee63786ba320.png)
+![image](https://user-images.githubusercontent.com/85137954/121133114-91173980-c7f7-11eb-8a7a-058b031ebc3d.png)
+
+1)Realice las siguientes conversiones:
 
 ![1](https://user-images.githubusercontent.com/85137954/121131194-0af9f380-c7f5-11eb-8e1b-1648d4a03172.png)
 
-2. Realice las siguientes conversiones:
+2)Realice las siguientes conversiones:
 
-![2](https://user-images.githubusercontent.com/85137954/121131601-a2f7dd00-c7f5-11eb-83a9-874975dcccc5.png)
 
-3. Establezca los factores de conversión, calcule lo siguiente y exprese la respuesta en las unidades que se indican.
-
-4. Un ventilador eléctrico gira a 300 revoluciones por minuto. ¿A cuánto equivale en grados por segundo?
-
-5. Si la máquina robot de montaje superficial de la figura 1-3 coloca 15 partes cada 12 s, ¿cuál es su tasa de colocación por hora?
-
-6. Si su impresora láser puede imprimir 8 páginas por minuto, ¿cuántas páginas puede imprimir en una décima de hora?
-
-7. Un auto tiene un rendimiento de 27 millas por galón (E. U.). ¿Cuál es el rendimiento en kilómetros por litro?
-
-8. El radio ecuatorial de la Tierra es de 3963 millas. ¿Cuál es la circunferencia de la Tierra en kilómetros en el ecuador?
-
-9. Una rueda gira 18° en 0.02 s. ¿A cuántas revoluciones por minuto equivale esta cantidad?
-
-10. La altura de los caballos se mide en ocasiones en “palmos” donde 1 palmo=4 pulgadas. ¿Cuántos metros de altura mide un caballo de 16 palmos?, ¿y en centímetros?
-
-11. Se define la ecuación s=vt, donde s es la distancia recorrida, v es la velocidad y t es el tiempo. Si usted viaja a v 60 mph por 500 segundos, obtiene y sustituye sin pensar s= (60)(500)=30 000 millas. ¿Cuál es el error en este cálculo? ¿Cuál es la respuesta correcta?
-
-12. Una pizza redonda tiene una circunferencia de 47 pulgadas. ¿Cuánto tiempo tardará en cortarla diagonalmente con un cortador de pizza que viaja a 0,12 m/s?
-
-13. A Joe S. se le pidió convertir 2000 yd/h en metros por segundo. Aquí está el trabajo de Joe: velocidad 2000x0.9144 x60/60 1828.8 m/s. Determine los factores de conversión, escriba las unidades en la conversión y determine la respuesta correcta
-
-14. La distancia media de la Tierra a la Luna es 238 857 millas, Las señales de radio viajan a 299 792 458 m/s. ¿Cuánto tiempo tardan las señales de radio en llegar a la Luna?
-
-15. Si camina a una velocidad de 3 km/h por 8 minutos, 5 km/h por 1.25 h y luego continúa caminando a una velocidad de 4 km/h por 12 minutos, ¿qué distancia habrá caminado en total?
-
-16. Suponga que camina a una velocidad de 2 mph por 12 minutos, 4 mph por 0.75 h, luego termina de caminar a 5 mph por 15 minutos, ¿qué distancia habrá caminado en total?
-
-17. Usted camina por 15 minutos a una velocidad de 2 km/h, luego 18 minutos a 5 km/h, y el resto del tiempo su velocidad es de 2.5 km/h. Si la distancia total que recorrió es de 2.85 km, ¿cuántos minutos caminó a 2.5 km/h?
-
-18. Usted camina por 16 minutos a una velocidad de 1.5 mph, acelera a 3.5 mph por un corto tiempo y disminuye a 3 mph para los últimos 12 minutos. Si la distancia total recorrida es de 1.7 millas, ¿cuánto tiempo caminó a 3.5 mph?
-
-19. Su jefe de planta le pide investigar dos máquinas. El costo de electricidad para la operación de la máquina #1 es 43 centavos/minuto, mientras que para la máquina #2 es de $200.00 por turno de 8 horas. El precio de compra, la capacidad de producción, los costos de mantenimiento y la confiabilidad a largo plazo de ambas máquinas son idénticos. Con base en esta información, ¿Qué máquina debería comprar y por qué?
-
-20. Dado que 1 hp=550 ft-lb/s, 1 ft=0.3048 m, 1=lb 4.448 N, 1J=1 N-m y 1W= 1 J/s, demuestre que 1 hp=746 W.
-
-21. Exprese cada una de las siguientes cantidades en notación de potencias de diez con un dígito diferente de cero a la izquierda del punto decimal:
-
-22. Exprese las respuestas de cada una de las siguientes cantidades en notación de potencias de diez con un dígito diferente de cero a la izquierda del punto decimal:
-
-23. Repita las instrucciones de la pregunta 22 para las siguientes cantidades.
-
-24. Determine el resultado de las siguientes operaciones
-
-25. Convierta las siguientes cantidades a notación de potencias de 10, y sin usarla calculadora determine las respuestas
-
-26. Para cada una de las siguientes cantidades convierta los números a notación de potencias de diez, después realice los cálculos que se indican. Redondee su respuesta a cuatro dígitos:
-
-27. Realice lo siguiente:
 
 55) Ejercicio con cd
 
