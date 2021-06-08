@@ -9,11 +9,11 @@
 ## Capítulo 1
 
 
-1)Realice las siguientes conversiones:
+1. Realice las siguientes conversiones:
 
 ![1](https://user-images.githubusercontent.com/85137954/121131194-0af9f380-c7f5-11eb-8e1b-1648d4a03172.png)
 
-2)Realice las siguientes conversiones:
+2. Realice las siguientes conversiones:
 
 
 ![image](https://user-images.githubusercontent.com/85137954/121132617-f9195000-c7f6-11eb-8305-f002d62f37ec.png)
