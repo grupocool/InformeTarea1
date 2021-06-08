@@ -172,6 +172,13 @@ W=V*Q→W=20mC*47.2 V=944 mJ
 
 W=V*Q→W=0.5 uC*8.5kV=4.25 mJ
 
+22. Si el voltaje entre dos puntos es de 100 V, ¿cuánta energía se requiere para mover un electrón entre los dos puntos? 
+1.) Encuentro Carga:    Q=(#electrones)/((6.25x〖10〗^18 electrones)/C)  =  1electron/((6.25x〖10〗^18 electrones)/C)
+Q=1.6x〖10〗^(-19) C
+2) Ya obtenida la carga encuentro la energia:  V=W/Q→W=V*Q
+W=(100)(1.6x〖10〗^(-19) )=1.6x〖10〗^(-17) [J]
+
+
 
 # 1.4. Video
 # 1.5. Concluciones
