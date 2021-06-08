@@ -7,6 +7,15 @@
 ![cap1_3](https://user-images.githubusercontent.com/85137954/121130616-45af5c00-c7f4-11eb-8d20-69779414ebda.png)
 # 1.3. Desarollo (aqui deben pegar sus ejercicios)
 ## Capítulo 1
+
+
+1)Realice las siguientes conversiones:
+
+![1](https://user-images.githubusercontent.com/85137954/121131194-0af9f380-c7f5-11eb-8e1b-1648d4a03172.png)
+
+2)Realice las siguientes conversiones:
+
+
 ![image](https://user-images.githubusercontent.com/85137954/121132617-f9195000-c7f6-11eb-8305-f002d62f37ec.png)
 ![image](https://user-images.githubusercontent.com/85137954/121132674-0a625c80-c7f7-11eb-9b5b-521f5082f666.png)
 ![image](https://user-images.githubusercontent.com/85137954/121132772-2b2ab200-c7f7-11eb-95d9-132151a39a57.png)
@@ -17,14 +26,6 @@
 ![image](https://user-images.githubusercontent.com/85137954/121133032-793fb580-c7f7-11eb-876a-99b4477674d1.png)
 ![image](https://user-images.githubusercontent.com/85137954/121133081-86f53b00-c7f7-11eb-805b-ee63786ba320.png)
 ![image](https://user-images.githubusercontent.com/85137954/121133114-91173980-c7f7-11eb-8a7a-058b031ebc3d.png)
-
-1)Realice las siguientes conversiones:
-
-![1](https://user-images.githubusercontent.com/85137954/121131194-0af9f380-c7f5-11eb-8e1b-1648d4a03172.png)
-
-2)Realice las siguientes conversiones:
-
-
 
 55) Ejercicio con cd
 
